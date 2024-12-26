@@ -1,2 +1,2 @@
 # Tree_planting_sites_identification
-Identification of optimal Urban tree planting sites
+Identification of optimal urban tree planting sites
